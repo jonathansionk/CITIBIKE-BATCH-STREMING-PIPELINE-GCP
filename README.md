@@ -1,4 +1,4 @@
-# Final Project — Citi Bike Batch & Streaming Data Pipeline
+# Citi Bike Batch & Streaming Data Pipeline
 
 ## 1. Project Overview
 
